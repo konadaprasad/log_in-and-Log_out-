@@ -1,0 +1,31 @@
+.container {
+  height: 100vh;
+  font-family: 'roboto';
+  text-align: center;
+}
+.inner-container {
+  background-image: linear-gradient(to top, #2b2c49, #b5b9ff);
+  background-size: cover;
+  margin: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  height: 500px;
+}
+.button1 {
+  height: 50px;
+  width: 100px;
+  border-style: solid;
+  border-radius: 5px;
+  background-color: #f8fafc;
+  color: #303150;
+  text-align: center;
+  align-self: center;
+  border-width: 0px;
+}
+.heading {
+  font-size: 28px;
+  color: #ffffff;
+  font-weight: 800px;
+}
